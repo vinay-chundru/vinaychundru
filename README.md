@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Frontend Development" width="600"/>
+  <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="Frontend Development" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinay Chundru</h1>
